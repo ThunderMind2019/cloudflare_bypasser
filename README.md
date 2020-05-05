@@ -1,6 +1,13 @@
 # cloudflare_bypasser
 Scrapy project to bypass the cloudflare DDoS protection
 
+# Prerequisite
+
+1. Python3+
+2. virtualenv installed (pip3 install virtualenv)
+3. node >= 10.*
+
+
 ## Instructions
 
 1. Go to project directory
