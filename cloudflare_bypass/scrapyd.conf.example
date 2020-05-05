@@ -1,0 +1,6 @@
+[scrapyd]
+http_port  = 6800
+bind_address = 0.0.0.0
+debug      = on
+max_proc  = 1
+jobs_to_keep = 10
