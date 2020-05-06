@@ -19,7 +19,11 @@ virtualenv .venv -p python3
 ```bash
 source .venv/bin/activate
 ```
-4. Deploy project
+4. install dependencies
+```bash
+pip install -r requirements.txt
+```
+5. Deploy project
 ```bash
 sh deployment.sh
 ```
